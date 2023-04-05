@@ -34,7 +34,7 @@ li:hover::before {
   cursor: pointer;
 }
 
-/*
+
 .card {
-  background: #000;
-} */
+  background: url(/src/Assets/testimonial_1.jpeg);
+}
